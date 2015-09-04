@@ -1,2 +1,2 @@
-Stupid Stupid Stupid!
+Idiot Idiot Idiot!
 Stupider and Stupider.
