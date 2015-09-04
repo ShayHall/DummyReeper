@@ -1,1 +1,1 @@
-Stupid
+Stupid Stupid Stupid!
