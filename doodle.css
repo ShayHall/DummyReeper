@@ -1,0 +1,140 @@
+/* doodle.css */
+
+header {
+  padding-bottom: 99px;
+  width: 100%;
+  height:1px;
+  color:white;
+}
+
+div {
+  margin-top: -2000px;
+}
+
+div:first-of-type {
+  display: inline-block;
+  width: 75px;
+  height: 80000px;
+  border-radius: 50%;
+  background-color:#012345;
+}
+
+div:nth-of-type(2) {
+  display: inline-block;
+  width: 75px;
+  height: 80000px;
+  border-radius: 50%;
+  background-color:#123456;
+}
+
+div:nth-of-type(3) {
+  display: inline-block;
+  width: 75px;
+  height: 80000px;
+  border-radius: 50%;
+  background-color:#234567;
+}
+
+div:nth-of-type(4) {
+  display: inline-block;
+  width: 75px;
+  height: 80000px;
+  border-radius: 50%;
+  background-color:#345678;
+}
+
+div:nth-of-type(5) {
+  display: inline-block;
+  width: 75px;
+  height: 80000px;
+  border-radius: 50%;
+  background-color:#456789;
+}
+
+div:nth-of-type(6) {
+  display: inline-block;
+  width: 75px;
+  height: 80000px;
+  border-radius: 50%;
+  background-color:#56789a;
+}
+
+div:nth-of-type(7) {
+  display: inline-block;
+  width: 75px;
+  height: 80000px;
+  border-radius: 50%;
+  background-color:#6789ab;
+}
+
+div:nth-of-type(8) {
+  display: inline-block;
+  width: 75px;
+  height: 80000px;
+  border-radius: 50%;
+  background-color:#789abc;
+}
+
+div:nth-of-type(9) {
+  display: inline-block;
+  width: 75px;
+  height: 80000px;
+  border-radius: 50%;
+  background-color:#89abcd;
+}
+
+div:nth-of-type(10) {
+  display: inline-block;
+  width: 75px;
+  height: 80000px;
+  border-radius: 50%;
+  background-color:#9abcde;
+}
+
+div:nth-of-type(11) {
+  display: inline-block;
+  width: 75px;
+  height: 80000px;
+  border-radius: 50%;
+  background-color:#abcdef;
+}
+
+div:nth-of-type(12) {
+  display: inline-block;
+  width: 75px;
+  height: 80000px;
+  border-radius: 50%;
+  background-color:#bcdef0;
+}
+
+div:nth-of-type(13) {
+  display: inline-block;
+  width: 75px;
+  height: 80000px;
+  border-radius: 50%;
+  background-color:#cdef01;
+}
+
+div:nth-of-type(14) {
+  display: inline-block;
+  width: 75px;
+  height: 80000px;
+  border-radius: 50%;
+  background-color:#def012;
+}
+
+div:nth-of-type(15) {
+  display: inline-block;
+  width: 75px;
+  height: 80000px;
+  border-radius: 50%;
+  background-color:#ef0123;
+}
+
+div:nth-of-type(16) {
+  display: inline-block;
+  width: 75px;
+  height: 80000px;
+  border-radius: 50%;
+  background-color:#f01234;
+}
