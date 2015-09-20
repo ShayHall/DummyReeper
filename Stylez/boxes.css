@@ -1,0 +1,38 @@
+/*body, header, div, section, span {
+  color: green;
+}*/
+
+header {
+  background-color: orange;
+  border: 1px solid #e6f9af;
+}
+
+body {
+  background-color: blue;
+  border: 1px solid #e6f9af;
+  margin: 5px;
+  padding: 5px;
+}
+body div {
+  background-color: green;
+}
+
+div {
+  background-color: red;
+  border: 1px solid #e6f9af;
+  color: yellow;
+}
+
+section {
+  background-color: grey;
+  border: 1px solid #e6f9af;
+  height:50px;
+  width:25%;
+}
+
+span {
+  background-color:magenta;
+  border: 1px solid #e6f9af;
+  height:50px;
+  width:25%;
+}
