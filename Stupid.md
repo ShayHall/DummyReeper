@@ -1,2 +1,2 @@
 Idiot Idiot Idiot!
-Stupider and Stupider.
+Idiotic and Idioticer???
