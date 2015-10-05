@@ -5,7 +5,7 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
-.quadrant {
+.quadrant { 
   box-sizing: border-box;
   display: block;
   float: left;
