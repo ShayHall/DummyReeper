@@ -1,0 +1,12 @@
+npm install --save bower
+npm install --save browser-sync
+npm install --save wiredep
+npm install --save gulp
+npm install --save normalize.css
+npm install --save modernizr
+npm install --save jquery
+npm install --save angular
+npm install --save angular-route
+wiredep --verbose --src src/scss/main.scss
+atom .gitignore
+echo 'add node_modules, bower_components and src/css/*.css to .gitignore'
